@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>EuRuKo 2013 Blog</title>
   <subtitle>The European Ruby Conference 2013 Blog</subtitle>
-  <id>http://euruko2013.org/blog</id>
-  <link href="http://euruko2013.org/blog"/>
-  <link href="http://euruko2013.org/blog/feed.xml" rel="self"/>
+  <id>https://2013.euruko.org/blog</id>
+  <link href="https://2013.euruko.org/blog"/>
+  <link href="https://2013.euruko.org/blog/feed.xml" rel="self"/>
   <updated>2013-05-29T23:39:00Z</updated>
   <author>
     <name>EuRuKo 2013</name>
@@ -12,7 +12,7 @@
   <entry>
     <title>Meet our sponsors: Heroku</title>
     <link rel="alternate" href="/blog/2013-05-30-meet-our-sponsors-heroku/"/>
-    <id>http://euruko2013.org/blog/2013-05-30-meet-our-sponsors-heroku/</id>
+    <id>https://2013.euruko.org/blog/2013-05-30-meet-our-sponsors-heroku/</id>
     <published>2013-05-29T23:39:00Z</published>
     <updated>2013-05-29T23:39:00Z</updated>
     <author>
@@ -32,7 +32,7 @@
   <entry>
     <title>Meet our sponsors: Pamediakopes.gr</title>
     <link rel="alternate" href="/blog/2013-05-27-meet-our-sponsors-pamediakopes-gr/"/>
-    <id>http://euruko2013.org/blog/2013-05-27-meet-our-sponsors-pamediakopes-gr/</id>
+    <id>https://2013.euruko.org/blog/2013-05-27-meet-our-sponsors-pamediakopes-gr/</id>
     <published>2013-05-27T09:00:00Z</published>
     <updated>2013-05-27T09:00:00Z</updated>
     <author>
@@ -56,7 +56,7 @@
   <entry>
     <title>Meet our sponsors: Generation Y</title>
     <link rel="alternate" href="/blog/2013-05-17-meet-our-sponsors-generation-y/"/>
-    <id>http://euruko2013.org/blog/2013-05-17-meet-our-sponsors-generation-y/</id>
+    <id>https://2013.euruko.org/blog/2013-05-17-meet-our-sponsors-generation-y/</id>
     <published>2013-05-17T09:00:00Z</published>
     <updated>2013-05-17T09:00:00Z</updated>
     <author>
@@ -74,7 +74,7 @@
   <entry>
     <title>Meet our sponsors: Workable</title>
     <link rel="alternate" href="/blog/2013-05-13-meet-our-sponsors-workable/"/>
-    <id>http://euruko2013.org/blog/2013-05-13-meet-our-sponsors-workable/</id>
+    <id>https://2013.euruko.org/blog/2013-05-13-meet-our-sponsors-workable/</id>
     <published>2013-05-13T08:11:00Z</published>
     <updated>2013-05-13T08:11:00Z</updated>
     <author>
@@ -94,7 +94,7 @@
   <entry>
     <title>Meet our sponsors: XING</title>
     <link rel="alternate" href="/blog/2013-05-12-meet-our-sponsors-xing/"/>
-    <id>http://euruko2013.org/blog/2013-05-12-meet-our-sponsors-xing/</id>
+    <id>https://2013.euruko.org/blog/2013-05-12-meet-our-sponsors-xing/</id>
     <published>2013-05-12T06:00:00Z</published>
     <updated>2013-05-12T06:00:00Z</updated>
     <author>
@@ -116,7 +116,7 @@
   <entry>
     <title>Meet our sponsors: DNSimple</title>
     <link rel="alternate" href="/blog/2013-05-11-meet-our-sponsors-dnsimple/"/>
-    <id>http://euruko2013.org/blog/2013-05-11-meet-our-sponsors-dnsimple/</id>
+    <id>https://2013.euruko.org/blog/2013-05-11-meet-our-sponsors-dnsimple/</id>
     <published>2013-05-11T08:00:00Z</published>
     <updated>2013-05-11T08:00:00Z</updated>
     <author>

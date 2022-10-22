@@ -1,7 +1,7 @@
 EuRuKo 2013 website
 ====
 
-This is the code repository for the official [EuRuKo 2013 website](http://euruko2013.org)
+This is the code repository for the official [EuRuKo 2013 website](https://2013.euruko.org)
 
 Contributing
 ------------
